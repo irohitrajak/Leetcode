@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/irohitrajak/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1331-rank-transform-of-an-array](https://github.com/irohitrajak/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/irohitrajak/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/irohitrajak/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/irohitrajak/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/irohitrajak/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/irohitrajak/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/irohitrajak/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/irohitrajak/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/irohitrajak/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Matrix
+|  |
+| ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/irohitrajak/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 <!---LeetCode Topics End-->
