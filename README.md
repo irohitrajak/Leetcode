@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/irohitrajak/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/irohitrajak/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/irohitrajak/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/irohitrajak/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/irohitrajak/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/irohitrajak/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/irohitrajak/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/irohitrajak/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
@@ -197,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/irohitrajak/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Recursion
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/irohitrajak/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
