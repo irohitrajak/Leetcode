@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/irohitrajak/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0486-predict-the-winner](https://github.com/irohitrajak/Leetcode/tree/master/0486-predict-the-winner) |
+| [1260-shift-2d-grid](https://github.com/irohitrajak/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/irohitrajak/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/irohitrajak/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/irohitrajak/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/irohitrajak/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/irohitrajak/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/irohitrajak/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/irohitrajak/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/irohitrajak/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/irohitrajak/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Heap (Priority Queue)
 |  |
