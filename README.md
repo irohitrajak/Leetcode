@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/irohitrajak/Leetcode/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/irohitrajak/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/irohitrajak/Leetcode/tree/master/1406-stone-game-iii) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/irohitrajak/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/irohitrajak/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/irohitrajak/Leetcode/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/irohitrajak/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/irohitrajak/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Array
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/irohitrajak/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0486-predict-the-winner](https://github.com/irohitrajak/Leetcode/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/irohitrajak/Leetcode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/irohitrajak/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/irohitrajak/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/irohitrajak/Leetcode/tree/master/1406-stone-game-iii) |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/irohitrajak/Leetcode/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/irohitrajak/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/irohitrajak/Leetcode/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/irohitrajak/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/irohitrajak/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -239,14 +243,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/irohitrajak/Leetcode/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/irohitrajak/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/irohitrajak/Leetcode/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/irohitrajak/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/irohitrajak/Leetcode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/irohitrajak/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/irohitrajak/Leetcode/tree/master/1406-stone-game-iii) |
 ## Backtracking
 |  |
