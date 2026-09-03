@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/irohitrajak/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/irohitrajak/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/irohitrajak/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/irohitrajak/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/irohitrajak/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/irohitrajak/Leetcode/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/irohitrajak/Leetcode/tree/master/1140-stone-game-ii) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/irohitrajak/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1406-stone-game-iii](https://github.com/irohitrajak/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/irohitrajak/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/irohitrajak/Leetcode/tree/master/1563-stone-game-v) |
