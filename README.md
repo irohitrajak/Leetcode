@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/irohitrajak/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0486-predict-the-winner](https://github.com/irohitrajak/Leetcode/tree/master/0486-predict-the-winner) |
+| [0835-image-overlap](https://github.com/irohitrajak/Leetcode/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/irohitrajak/Leetcode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/irohitrajak/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/irohitrajak/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/irohitrajak/Leetcode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/irohitrajak/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/irohitrajak/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/irohitrajak/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
