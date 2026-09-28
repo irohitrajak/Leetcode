@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/irohitrajak/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/irohitrajak/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/irohitrajak/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/irohitrajak/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/irohitrajak/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/irohitrajak/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/irohitrajak/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/irohitrajak/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/irohitrajak/Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/irohitrajak/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -416,4 +418,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/irohitrajak/Leetcode/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/irohitrajak/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
